@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Rent cars",
+    "slug": "Rent cars",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/car.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/car.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/car.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/car.png"
+    }
+  }
+}
